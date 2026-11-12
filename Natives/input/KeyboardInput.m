@@ -132,7 +132,7 @@ int keycodeTable[UIKeyboardHIDUsageKeyboardRightGUI+1];
                 continue;
             }
             CallbackBridge_nativeSendCharMods(keychar, modifiers);
-           
+         
         }
     }
 
